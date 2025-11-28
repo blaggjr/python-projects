@@ -1,0 +1,7 @@
+[project]
+name = "number-guesser"
+version = "0.1.0"
+description = "Simple number guessing game with hints"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
